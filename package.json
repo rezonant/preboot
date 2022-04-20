@@ -1,5 +1,5 @@
 {
-  "name": "preboot",
+  "name": "@rezonant/preboot",
   "version": "8.0.0",
   "description": "Record server view events and play back to Angular client view",
   "scripts": {

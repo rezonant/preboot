@@ -1,11 +1,14 @@
 {
-  "name": "preboot",
+  "name": "@rezonant/preboot",
   "version": "8.0.0",
   "description": "Record server view events and play back to Angular client view",
   "main": "./bundles/preboot.umd.js",
   "module": "./esm5/preboot.es5.js",
   "es2015": "./esm2015/preboot.js",
   "typings": "./preboot.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Jeff Whelpley",
   "license": "MIT",
   "contributors": [
